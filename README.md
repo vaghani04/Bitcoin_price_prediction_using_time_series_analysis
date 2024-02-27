@@ -1,4 +1,4 @@
-# ML_Bitcoin_price_prediction
+# Bitcoin_price_prediction_using_time_series_analysis
 
 - This project explores various deep learning models for time series forecasting of Bitcoin prices, emphasizing the challenges and uncertainties inherent in predicting financial markets.
 - Models such as dense neural networks, convolutional and LSTM networks, multivariate approaches, ensemble models, and N-BEATS architecture were trained and evaluated.
